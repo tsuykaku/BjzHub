@@ -1,0 +1,303 @@
+{
+  "source": "使用者提供的 Pair List HTML",
+  "sourceCards": 43,
+  "uniquePairCount": 58,
+  "uniqueCharacterCount": 74,
+  "notes": [
+    "SourceSection 是 HTML 分類，不代表配對雙方都具有該品質。",
+    "角色名稱依 HTML item-label 原樣保留。",
+    "HTML 未附加成倍率、相鄰條件或多人連結效果規則。"
+  ],
+  "pairs": [
+    {
+      "SourceSection": "Exclusive",
+      "CharacterA": "Yin",
+      "CharacterB": "Yang"
+    },
+    {
+      "SourceSection": "Exclusive",
+      "CharacterA": "Kira Ho",
+      "CharacterB": "Kinja Hikari"
+    },
+    {
+      "SourceSection": "Transcendent",
+      "CharacterA": "Akito Nemu",
+      "CharacterB": "Teto"
+    },
+    {
+      "SourceSection": "Transcendent",
+      "CharacterA": "Akito Nemu",
+      "CharacterB": "Summer Mika"
+    },
+    {
+      "SourceSection": "Transcendent",
+      "CharacterA": "Akito Nemu",
+      "CharacterB": "Summer Mika II"
+    },
+    {
+      "SourceSection": "Apex",
+      "CharacterA": "Witch of Darkness",
+      "CharacterB": "Subara"
+    },
+    {
+      "SourceSection": "Omniscient",
+      "CharacterA": "Lella",
+      "CharacterB": "C.C"
+    },
+    {
+      "SourceSection": "Omniscient",
+      "CharacterA": "Girlyfang",
+      "CharacterB": "Serah Victoire"
+    },
+    {
+      "SourceSection": "Omniscient",
+      "CharacterA": "Ada Smasher",
+      "CharacterB": "Rebekka"
+    },
+    {
+      "SourceSection": "God",
+      "CharacterA": "Angelia",
+      "CharacterB": "Selene"
+    },
+    {
+      "SourceSection": "God",
+      "CharacterA": "Emeliara",
+      "CharacterB": "Subara"
+    },
+    {
+      "SourceSection": "God",
+      "CharacterA": "Ai Hoshi",
+      "CharacterB": "Rubie Hoshi"
+    },
+    {
+      "SourceSection": "God",
+      "CharacterA": "Froza",
+      "CharacterB": "Ferna"
+    },
+    {
+      "SourceSection": "Ancient",
+      "CharacterA": "Kaneko II",
+      "CharacterB": "Riza"
+    },
+    {
+      "SourceSection": "Ancient",
+      "CharacterA": "Kaneko II",
+      "CharacterB": "Touki"
+    },
+    {
+      "SourceSection": "Ancient",
+      "CharacterA": "Kaneko II",
+      "CharacterB": "Riza II"
+    },
+    {
+      "SourceSection": "Ancient",
+      "CharacterA": "Orihira",
+      "CharacterB": "Rukira"
+    },
+    {
+      "SourceSection": "Celestial",
+      "CharacterA": "Mimio",
+      "CharacterB": "Sheela"
+    },
+    {
+      "SourceSection": "Celestial",
+      "CharacterA": "Yoruika II",
+      "CharacterB": "Rukira"
+    },
+    {
+      "SourceSection": "Celestial",
+      "CharacterA": "Ramilia Scarlette",
+      "CharacterB": "Flandra Scarlette"
+    },
+    {
+      "SourceSection": "Celestial",
+      "CharacterA": "Alucardia",
+      "CharacterB": "Serah Victoire"
+    },
+    {
+      "SourceSection": "Celestial",
+      "CharacterA": "Madoki Kaneme",
+      "CharacterB": "Homara Akeni"
+    },
+    {
+      "SourceSection": "Celestial",
+      "CharacterA": "Summer Mika II",
+      "CharacterB": "Teto"
+    },
+    {
+      "SourceSection": "Supreme",
+      "CharacterA": "Davida Martinez",
+      "CharacterB": "Rebekka"
+    },
+    {
+      "SourceSection": "Supreme",
+      "CharacterA": "Davida Martinez",
+      "CharacterB": "Lucia"
+    },
+    {
+      "SourceSection": "Divine",
+      "CharacterA": "Remi",
+      "CharacterB": "Rami"
+    },
+    {
+      "SourceSection": "Divine",
+      "CharacterA": "Riza II",
+      "CharacterB": "Kaneko"
+    },
+    {
+      "SourceSection": "Ascended",
+      "CharacterA": "Yotso Naka",
+      "CharacterB": "Miku Naka"
+    },
+    {
+      "SourceSection": "Ascended",
+      "CharacterA": "Yotso Naka",
+      "CharacterB": "Itsi Naka"
+    },
+    {
+      "SourceSection": "Ascended",
+      "CharacterA": "Yotso Naka",
+      "CharacterB": "Ichi Naka"
+    },
+    {
+      "SourceSection": "Ascended",
+      "CharacterA": "Yotso Naka",
+      "CharacterB": "Nina Naka"
+    },
+    {
+      "SourceSection": "Ascended",
+      "CharacterA": "Nina Naka",
+      "CharacterB": "Itsi Naka"
+    },
+    {
+      "SourceSection": "Ascended",
+      "CharacterA": "Nina Naka",
+      "CharacterB": "Ichi Naka"
+    },
+    {
+      "SourceSection": "Ascended",
+      "CharacterA": "Nina Naka",
+      "CharacterB": "Miku Naka"
+    },
+    {
+      "SourceSection": "Ascended",
+      "CharacterA": "Miku Naka",
+      "CharacterB": "Ichi Naka"
+    },
+    {
+      "SourceSection": "Ascended",
+      "CharacterA": "Miku Naka",
+      "CharacterB": "Itsi Naka"
+    },
+    {
+      "SourceSection": "Ascended",
+      "CharacterA": "Itsi Naka",
+      "CharacterB": "Ichi Naka"
+    },
+    {
+      "SourceSection": "Ascended",
+      "CharacterA": "Reia II",
+      "CharacterB": "Askira II"
+    },
+    {
+      "SourceSection": "Ascended",
+      "CharacterA": "Lucia",
+      "CharacterB": "Rebekka"
+    },
+    {
+      "SourceSection": "Ascended",
+      "CharacterA": "Irohia",
+      "CharacterB": "Ibukia"
+    },
+    {
+      "SourceSection": "Rainbow",
+      "CharacterA": "Megumia",
+      "CharacterB": "Aquella"
+    },
+    {
+      "SourceSection": "Rainbow",
+      "CharacterA": "Kaneko",
+      "CharacterB": "Touki"
+    },
+    {
+      "SourceSection": "Rainbow",
+      "CharacterA": "Kaneko",
+      "CharacterB": "Riza"
+    },
+    {
+      "SourceSection": "Rainbow",
+      "CharacterA": "Kyouka Hora",
+      "CharacterB": "Izuma Miyamira"
+    },
+    {
+      "SourceSection": "Secret",
+      "CharacterA": "Yumeka",
+      "CharacterB": "Mary"
+    },
+    {
+      "SourceSection": "Secret",
+      "CharacterA": "Yumeka",
+      "CharacterB": "Kirara"
+    },
+    {
+      "SourceSection": "Cosmic",
+      "CharacterA": "Sylphette",
+      "CharacterB": "Rudeus Chan"
+    },
+    {
+      "SourceSection": "Cosmic",
+      "CharacterA": "Sylphette",
+      "CharacterB": "Roxia"
+    },
+    {
+      "SourceSection": "Mythical",
+      "CharacterA": "Teto",
+      "CharacterB": "Hatsuna Mika"
+    },
+    {
+      "SourceSection": "Mythical",
+      "CharacterA": "Teto",
+      "CharacterB": "Summer Mika"
+    },
+    {
+      "SourceSection": "Mythical",
+      "CharacterA": "Misa Amara",
+      "CharacterB": "Linnete Yagami"
+    },
+    {
+      "SourceSection": "Mythical",
+      "CharacterA": "Roxia",
+      "CharacterB": "Rudeus Chan"
+    },
+    {
+      "SourceSection": "Legendary",
+      "CharacterA": "Linnete Yagami",
+      "CharacterB": "Lawliete"
+    },
+    {
+      "SourceSection": "Legendary",
+      "CharacterA": "Yuta Chan",
+      "CharacterB": "Makia"
+    },
+    {
+      "SourceSection": "Epic",
+      "CharacterA": "Rukira",
+      "CharacterB": "Yoruika"
+    },
+    {
+      "SourceSection": "Epic",
+      "CharacterA": "Yuura",
+      "CharacterB": "Chiya"
+    },
+    {
+      "SourceSection": "Epic",
+      "CharacterA": "Toxic Ivy",
+      "CharacterB": "Harla Quinne"
+    },
+    {
+      "SourceSection": "Epic",
+      "CharacterA": "Reia",
+      "CharacterB": "Askira"
+    }
+  ]
+}
