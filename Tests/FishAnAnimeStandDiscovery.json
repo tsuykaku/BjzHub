@@ -1,0 +1,599 @@
+{
+  "Description": "Sanitized stand topology regression from user Debug v1: root, purchased upgrades and owned PAID slots; no player or character UUIDs.",
+  "Stands": [
+    {
+      "Id": "1",
+      "Source": "Plot",
+      "Name": "Sasha",
+      "Type": "Demonic",
+      "Level": 328,
+      "BaseCps": 1200000,
+      "Cps": 1537598331
+    },
+    {
+      "Id": "2",
+      "Source": "Plot",
+      "Name": "Sasha",
+      "Type": "Demonic",
+      "Level": 276,
+      "BaseCps": 1200000,
+      "Cps": 1329529518
+    },
+    {
+      "Id": "3",
+      "Source": "Plot",
+      "Name": "Tatsa",
+      "Type": "",
+      "Level": 378,
+      "BaseCps": 8500000,
+      "Cps": 1252555098
+    },
+    {
+      "Id": "4",
+      "Source": "Purchases",
+      "Name": "Akaria",
+      "Type": "Demonic",
+      "Level": 296,
+      "BaseCps": 1040000,
+      "Cps": 1218531002
+    },
+    {
+      "Id": "5PAID",
+      "Source": "Purchases",
+      "Name": "Akaria",
+      "Type": "Demonic",
+      "Level": 267,
+      "BaseCps": 1040000,
+      "Cps": 1123624369
+    },
+    {
+      "Id": "6",
+      "Source": "Purchases",
+      "Name": "Riza II",
+      "Type": "Demonic",
+      "Level": 305,
+      "BaseCps": 880000,
+      "Cps": 1057340442
+    },
+    {
+      "Id": "7",
+      "Source": "Purchases",
+      "Name": "Kaneko",
+      "Type": "Demonic",
+      "Level": 1,
+      "BaseCps": 33333,
+      "Cps": 333330
+    },
+    {
+      "Id": "8",
+      "Source": "Purchases",
+      "Name": "Suigintra",
+      "Type": "",
+      "Level": 142,
+      "BaseCps": 7500000,
+      "Cps": 323307032
+    },
+    {
+      "Id": "9",
+      "Source": "Purchases",
+      "Name": "Menihi",
+      "Type": "",
+      "Level": 96,
+      "BaseCps": 8500000,
+      "Cps": 227365173
+    },
+    {
+      "Id": "10PAID",
+      "Source": "Purchases",
+      "Name": "Sabera II",
+      "Type": "Nightmare",
+      "Level": 266,
+      "BaseCps": 240000,
+      "Cps": 181001747
+    },
+    {
+      "Id": "11",
+      "Source": "Purchases",
+      "Name": "Sasha",
+      "Type": "Dracula",
+      "Level": 80,
+      "BaseCps": 1200000,
+      "Cps": 147634561
+    },
+    {
+      "Id": "12",
+      "Source": "Purchases",
+      "Name": "Tatsa",
+      "Type": "",
+      "Level": 82,
+      "BaseCps": 8500000,
+      "Cps": 140082620
+    },
+    {
+      "Id": "13",
+      "Source": "Purchases",
+      "Name": "Yotso Naka",
+      "Type": "Water",
+      "Level": 328,
+      "BaseCps": 248993,
+      "Cps": 127617074
+    },
+    {
+      "Id": "14",
+      "Source": "Purchases",
+      "Name": "Askira II",
+      "Type": "Solar",
+      "Level": 324,
+      "BaseCps": 228571,
+      "Cps": 115847181
+    },
+    {
+      "Id": "16",
+      "Source": "Purchases",
+      "Name": "Lucia",
+      "Type": "Water",
+      "Level": 312,
+      "BaseCps": 228571,
+      "Cps": 112024643
+    },
+    {
+      "Id": "17",
+      "Source": "Purchases",
+      "Name": "Bambienne",
+      "Type": "Mars",
+      "Level": 236,
+      "BaseCps": 200000,
+      "Cps": 110426909
+    },
+    {
+      "Id": "18",
+      "Source": "Purchases",
+      "Name": "Ayaki Kamisora",
+      "Type": "Demonic",
+      "Level": 69,
+      "BaseCps": 900000,
+      "Cps": 94600278
+    },
+    {
+      "Id": "19",
+      "Source": "Purchases",
+      "Name": "Rubie Hoshi",
+      "Type": "Dracula",
+      "Level": 67,
+      "BaseCps": 1150000,
+      "Cps": 90237947
+    },
+    {
+      "Id": "21",
+      "Source": "Purchases",
+      "Name": "Subara",
+      "Type": "Dracula",
+      "Level": 63,
+      "BaseCps": 1240000,
+      "Cps": 84725862
+    },
+    {
+      "Id": "22",
+      "Source": "Purchases",
+      "Name": "Ichi Naka",
+      "Type": "Blood",
+      "Level": 426,
+      "BaseCps": 248993,
+      "Cps": 83923322
+    },
+    {
+      "Id": "23",
+      "Source": "Purchases",
+      "Name": "Suigintra",
+      "Type": "",
+      "Level": 68,
+      "BaseCps": 7500000,
+      "Cps": 76152981
+    },
+    {
+      "Id": "24",
+      "Source": "Purchases",
+      "Name": "Mari Kita II",
+      "Type": "",
+      "Level": 203,
+      "BaseCps": 940000,
+      "Cps": 66283017
+    },
+    {
+      "Id": "26",
+      "Source": "Purchases",
+      "Name": "Reia II",
+      "Type": "Sinister",
+      "Level": 151,
+      "BaseCps": 228571,
+      "Cps": 52975804
+    },
+    {
+      "Id": "27",
+      "Source": "Purchases",
+      "Name": "Kurumia Tokisora",
+      "Type": "",
+      "Level": 57,
+      "BaseCps": 7000000,
+      "Cps": 48579919
+    },
+    {
+      "Id": "28",
+      "Source": "Purchases",
+      "Name": "Albina",
+      "Type": "Water",
+      "Level": 149,
+      "BaseCps": 211429,
+      "Cps": 38574805
+    },
+    {
+      "Id": "29",
+      "Source": "Purchases",
+      "Name": "Ibukia",
+      "Type": "Lunar",
+      "Level": 147,
+      "BaseCps": 211429,
+      "Cps": 37957405
+    },
+    {
+      "Id": "31",
+      "Source": "Purchases",
+      "Name": "2V",
+      "Type": "Zombie",
+      "Level": 152,
+      "BaseCps": 285714,
+      "Cps": 26702477
+    },
+    {
+      "Id": "32",
+      "Source": "Purchases",
+      "Name": "2V",
+      "Type": "Zombie",
+      "Level": 145,
+      "BaseCps": 285714,
+      "Cps": 25236333
+    },
+    {
+      "Id": "33",
+      "Source": "Purchases",
+      "Name": "Albina",
+      "Type": "Ghost",
+      "Level": 130,
+      "BaseCps": 211429,
+      "Cps": 20683093
+    },
+    {
+      "Id": "34",
+      "Source": "Purchases",
+      "Name": "Miku Naka",
+      "Type": "Slime",
+      "Level": 137,
+      "BaseCps": 248993,
+      "Cps": 20618304
+    },
+    {
+      "Id": "36",
+      "Source": "Purchases",
+      "Name": "Nina Naka",
+      "Type": "Zombie",
+      "Level": 119,
+      "BaseCps": 248993,
+      "Cps": 17831500
+    },
+    {
+      "Id": "37",
+      "Source": "Purchases",
+      "Name": "Itsi Naka",
+      "Type": "Nightmare",
+      "Level": 68,
+      "BaseCps": 248993,
+      "Cps": 17697455
+    },
+    {
+      "Id": "38",
+      "Source": "Purchases",
+      "Name": "Tenki Izuma",
+      "Type": "Electric",
+      "Level": 121,
+      "BaseCps": 211429,
+      "Cps": 15387658
+    },
+    {
+      "Id": "39",
+      "Source": "Purchases",
+      "Name": "Irohia",
+      "Type": "Slime",
+      "Level": 107,
+      "BaseCps": 211429,
+      "Cps": 13744278
+    }
+  ],
+  "Definitions": {
+    "Makina II": {
+      "CPS": 1080000,
+      "Chance": "1/7,700,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "2V": {
+      "CPS": 285714,
+      "Chance": "1/1,000,000,000",
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Albina": {
+      "CPS": 211429,
+      "Chance": "1/440,000,000",
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Kurumia Tokisora": {
+      "CPS": 7000000,
+      "Chance": "1/19,985,878,125",
+      "Rarity": "Supreme",
+      "Time": 60
+    },
+    "Rubie Hoshi": {
+      "CPS": 1150000,
+      "Chance": "1/8,000,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Itsi Naka": {
+      "CPS": 248993,
+      "Chance": "1/700,000,000",
+      "CombinationPartner": [
+        "Ichi Naka",
+        "Miku Naka",
+        "Nina Naka",
+        "Yotso Naka"
+      ],
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Suigintra": {
+      "CPS": 7500000,
+      "Chance": "1/25,610,625,000",
+      "Rarity": "Supreme",
+      "Time": 60
+    },
+    "Tatsa": {
+      "CPS": 8500000,
+      "Chance": "1/45,000,000,000",
+      "Rarity": "Supreme",
+      "Time": 60
+    },
+    "Bambienne": {
+      "CPS": 200000,
+      "Chance": "1/390,625,000",
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Lucia": {
+      "CPS": 228571,
+      "Chance": "1/520,000,000",
+      "CombinationPartner": [
+        "Davida Martinez",
+        "Rebekka"
+      ],
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Ayaki Kamisora": {
+      "CPS": 900000,
+      "Chance": "1/5,000,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Deltia": {
+      "CPS": 1070000,
+      "Chance": "1/7,500,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Ichi Naka": {
+      "CPS": 248993,
+      "Chance": "1/700,000,000",
+      "CombinationPartner": [
+        "Itsi Naka",
+        "Miku Naka",
+        "Nina Naka",
+        "Yotso Naka"
+      ],
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Remi": {
+      "CPS": 1280000,
+      "Chance": "1/10,000,000,000",
+      "CombinationPartner": [
+        "Rami",
+        "Subara"
+      ],
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Sabera II": {
+      "CPS": 240000,
+      "Chance": "1/600,000,000",
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Ibukia": {
+      "CPS": 211429,
+      "Chance": "1/400,000,000",
+      "CombinationPartner": "Irohia",
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Subara": {
+      "CPS": 1240000,
+      "Chance": "1/9,000,000,000",
+      "CombinationPartner": [
+        "Emeliara",
+        "Remi",
+        "Witch of Darkness"
+      ],
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Akaria": {
+      "CPS": 1040000,
+      "Chance": "1/7,000,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Askira II": {
+      "CPS": 228571,
+      "Chance": "1/540,225,000",
+      "CombinationPartner": "Reia II",
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Rena Yamashira": {
+      "CPS": 8500000,
+      "Chance": "1/56,250,000,000",
+      "Rarity": "Supreme",
+      "Time": 60
+    },
+    "Hestira": {
+      "CPS": 980000,
+      "Chance": "1/6,200,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Irohia": {
+      "CPS": 211429,
+      "Chance": "1/400,000,000",
+      "CombinationPartner": "Ibukia",
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Nina Naka": {
+      "CPS": 248993,
+      "Chance": "1/700,000,000",
+      "CombinationPartner": [
+        "Ichi Naka",
+        "Itsi Naka",
+        "Miku Naka",
+        "Yotso Naka"
+      ],
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Reia II": {
+      "CPS": 228571,
+      "Chance": "1/540,225,000",
+      "CombinationPartner": "Askira II",
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Menihi": {
+      "CPS": 8500000,
+      "Chance": "1/75,000,000,000",
+      "Rarity": "Supreme",
+      "Time": 60
+    },
+    "Tenki Izuma": {
+      "CPS": 211429,
+      "Chance": "1/400,000,000",
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Ria Gramera II": {
+      "CPS": 1120000,
+      "Chance": "1/7,765,225,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Sasha": {
+      "CPS": 1200000,
+      "Chance": "1/8,404,404,404",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Miku Naka": {
+      "CPS": 248993,
+      "Chance": "1/700,000,000",
+      "CombinationPartner": [
+        "Ichi Naka",
+        "Itsi Naka",
+        "Nina Naka",
+        "Yotso Naka"
+      ],
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Yotso Naka": {
+      "CPS": 248993,
+      "Chance": "1/700,000,000",
+      "CombinationPartner": [
+        "Ichi Naka",
+        "Itsi Naka",
+        "Miku Naka",
+        "Nina Naka"
+      ],
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Mari Kita II": {
+      "CPS": 940000,
+      "Chance": "1/5,600,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Selene": {
+      "CPS": 840000,
+      "Chance": "1/3,500,000,000",
+      "CombinationPartner": "Angelia",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Kaneko": {
+      "CPS": 33333,
+      "Chance": "1/170,000,000",
+      "CombinationPartner": [
+        "Riza",
+        "Touki",
+        "Riza II"
+      ],
+      "Rarity": "Rainbow",
+      "Time": 60
+    },
+    "Riza II": {
+      "CPS": 880000,
+      "Chance": "1/4,250,000,000",
+      "CombinationPartner": [
+        "Kaneko",
+        "Kaneko II"
+      ],
+      "Rarity": "Divine",
+      "Time": 60
+    }
+  },
+  "TypeMultipliers": {
+    "Mars": 6,
+    "Electric": 2,
+    "Ghost": 2.5,
+    "Water": 4,
+    "Party": 1.5,
+    "Gold": 1.25,
+    "Lava": 2,
+    "Complexity": 2.5,
+    "Slime": 2,
+    "Zombie": 2,
+    "Diamond": 1.5,
+    "Demonic": 10,
+    "Solar": 4,
+    "Angelic": 6,
+    "Blood": 2,
+    "Nightmare": 7,
+    "Dracula": 8,
+    "Lunar": 4,
+    "Sinister": 5,
+    "Void": 6,
+    "Toxic": 4,
+    "Honey": 1.25,
+    "Frozen": 1.5
+  }
+}

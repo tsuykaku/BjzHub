@@ -1,0 +1,710 @@
+{
+  "Description": "Sanitized 34-slot Debug v2 regression; only character keys, counts, CPS and pair definitions, no player or character UUIDs.",
+  "Slots": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    29,
+    31,
+    32,
+    33,
+    34,
+    36,
+    37,
+    38,
+    39
+  ],
+  "Candidates": [
+    {
+      "Key": "C|Sasha|Demonic|L333",
+      "Name": "Sasha",
+      "Cps": 1559245593,
+      "Count": 1
+    },
+    {
+      "Key": "C|Sasha|Demonic|L278",
+      "Name": "Sasha",
+      "Cps": 1336985307,
+      "Count": 1
+    },
+    {
+      "Key": "C|Tatsa||L390",
+      "Name": "Tatsa",
+      "Cps": 1295295171,
+      "Count": 1
+    },
+    {
+      "Key": "C|Akaria|Demonic|L296",
+      "Name": "Akaria",
+      "Cps": 1218531002,
+      "Count": 1
+    },
+    {
+      "Key": "C|Akaria|Demonic|L267",
+      "Name": "Akaria",
+      "Cps": 1123624369,
+      "Count": 1
+    },
+    {
+      "Key": "C|Riza II|Demonic|L305",
+      "Name": "Riza II",
+      "Cps": 1057340441,
+      "Count": 1
+    },
+    {
+      "Key": "C|Suigintra||L142",
+      "Name": "Suigintra",
+      "Cps": 323307033,
+      "Count": 1
+    },
+    {
+      "Key": "C|Menihi||L96",
+      "Name": "Menihi",
+      "Cps": 227365173,
+      "Count": 1
+    },
+    {
+      "Key": "C|Sasha|Dracula|L92",
+      "Name": "Sasha",
+      "Cps": 223603808,
+      "Count": 1
+    },
+    {
+      "Key": "C|Sabera II|Nightmare|L266",
+      "Name": "Sabera II",
+      "Cps": 181001747,
+      "Count": 1
+    },
+    {
+      "Key": "C|Ayaki Kamisora|Demonic|L86",
+      "Name": "Ayaki Kamisora",
+      "Cps": 170335391,
+      "Count": 1
+    },
+    {
+      "Key": "C|Tatsa||L82",
+      "Name": "Tatsa",
+      "Cps": 140082620,
+      "Count": 1
+    },
+    {
+      "Key": "C|Yotso Naka|Water|L328",
+      "Name": "Yotso Naka",
+      "Cps": 127617074,
+      "Count": 1
+    },
+    {
+      "Key": "C|Askira II|Solar|L324",
+      "Name": "Askira II",
+      "Cps": 115847181,
+      "Count": 1
+    },
+    {
+      "Key": "C|Rubie Hoshi|Dracula|L74",
+      "Name": "Rubie Hoshi",
+      "Cps": 114963255,
+      "Count": 1
+    },
+    {
+      "Key": "C|Lucia|Water|L312",
+      "Name": "Lucia",
+      "Cps": 112024643,
+      "Count": 1
+    },
+    {
+      "Key": "C|Subara|Dracula|L71",
+      "Name": "Subara",
+      "Cps": 111740370,
+      "Count": 1
+    },
+    {
+      "Key": "C|Bambienne|Mars|L236",
+      "Name": "Bambienne",
+      "Cps": 110426910,
+      "Count": 1
+    },
+    {
+      "Key": "C|C.C||L71",
+      "Name": "C.C",
+      "Cps": 90113202,
+      "Count": 1
+    },
+    {
+      "Key": "C|Ichi Naka|Blood|L426",
+      "Name": "Ichi Naka",
+      "Cps": 83923322,
+      "Count": 1
+    },
+    {
+      "Key": "C|Rena Yamashira||L67",
+      "Name": "Rena Yamashira",
+      "Cps": 83372016,
+      "Count": 1
+    },
+    {
+      "Key": "C|Suigintra||L68",
+      "Name": "Suigintra",
+      "Cps": 76152981,
+      "Count": 1
+    },
+    {
+      "Key": "C|Mari Kita II||L203",
+      "Name": "Mari Kita II",
+      "Cps": 66283013,
+      "Count": 1
+    },
+    {
+      "Key": "C|Kurumia Tokisora||L64",
+      "Name": "Kurumia Tokisora",
+      "Cps": 61890876,
+      "Count": 1
+    },
+    {
+      "Key": "C|Reia II|Sinister|L152",
+      "Name": "Reia II",
+      "Cps": 53404908,
+      "Count": 1
+    },
+    {
+      "Key": "C|Albina|Water|L149",
+      "Name": "Albina",
+      "Cps": 38574805,
+      "Count": 1
+    },
+    {
+      "Key": "C|Ibukia|Lunar|L147",
+      "Name": "Ibukia",
+      "Cps": 37957405,
+      "Count": 1
+    },
+    {
+      "Key": "C|Itsi Naka|Nightmare|L82",
+      "Name": "Itsi Naka",
+      "Cps": 28724370,
+      "Count": 1
+    },
+    {
+      "Key": "C|2V|Zombie|L153",
+      "Name": "2V",
+      "Cps": 26918767,
+      "Count": 1
+    },
+    {
+      "Key": "C|2V|Zombie|L145",
+      "Name": "2V",
+      "Cps": 25236333,
+      "Count": 1
+    },
+    {
+      "Key": "C|Kaneko|Demonic|L203",
+      "Name": "Kaneko",
+      "Cps": 23504379,
+      "Count": 1
+    },
+    {
+      "Key": "C|Albina|Ghost|L130",
+      "Name": "Albina",
+      "Cps": 20683074,
+      "Count": 1
+    },
+    {
+      "Key": "C|Miku Naka|Slime|L137",
+      "Name": "Miku Naka",
+      "Cps": 20618304,
+      "Count": 1
+    },
+    {
+      "Key": "C|Nina Naka|Zombie|L119",
+      "Name": "Nina Naka",
+      "Cps": 17831500,
+      "Count": 1
+    },
+    {
+      "Key": "C|Remi||L62",
+      "Name": "Remi",
+      "Cps": 10560635,
+      "Count": 1
+    },
+    {
+      "Key": "C|Rena Yamashira|",
+      "Name": "Rena Yamashira",
+      "Cps": 8500000,
+      "Count": 1
+    },
+    {
+      "Key": "C|Remi|Void",
+      "Name": "Remi",
+      "Cps": 7680000,
+      "Count": 1
+    },
+    {
+      "Key": "C|Ria Gramera II|Sinister",
+      "Name": "Ria Gramera II",
+      "Cps": 5600000,
+      "Count": 1
+    },
+    {
+      "Key": "C|Mari Kita II|Water",
+      "Name": "Mari Kita II",
+      "Cps": 3760000,
+      "Count": 1
+    },
+    {
+      "Key": "C|Makina II|Electric",
+      "Name": "Makina II",
+      "Cps": 2160000,
+      "Count": 1
+    },
+    {
+      "Key": "C|Riza II|Zombie",
+      "Name": "Riza II",
+      "Cps": 1760000,
+      "Count": 1
+    },
+    {
+      "Key": "C|Ria Gramera II|Party",
+      "Name": "Ria Gramera II",
+      "Cps": 1680000,
+      "Count": 1
+    },
+    {
+      "Key": "C|Mari Kita II|Party",
+      "Name": "Mari Kita II",
+      "Cps": 1410000,
+      "Count": 1
+    },
+    {
+      "Key": "C|Ria Gramera II|Honey",
+      "Name": "Ria Gramera II",
+      "Cps": 1400000,
+      "Count": 1
+    },
+    {
+      "Key": "C|Remi|",
+      "Name": "Remi",
+      "Cps": 1280000,
+      "Count": 2
+    },
+    {
+      "Key": "C|Selene|Party",
+      "Name": "Selene",
+      "Cps": 1260000,
+      "Count": 1
+    },
+    {
+      "Key": "C|Subara|",
+      "Name": "Subara",
+      "Cps": 1240000,
+      "Count": 4
+    },
+    {
+      "Key": "C|Sasha|",
+      "Name": "Sasha",
+      "Cps": 1200000,
+      "Count": 7
+    },
+    {
+      "Key": "C|Mari Kita II|Gold",
+      "Name": "Mari Kita II",
+      "Cps": 1175000,
+      "Count": 1
+    },
+    {
+      "Key": "C|Rubie Hoshi|",
+      "Name": "Rubie Hoshi",
+      "Cps": 1150000,
+      "Count": 3
+    },
+    {
+      "Key": "C|Ria Gramera II|",
+      "Name": "Ria Gramera II",
+      "Cps": 1120000,
+      "Count": 7
+    },
+    {
+      "Key": "C|Makina II|",
+      "Name": "Makina II",
+      "Cps": 1080000,
+      "Count": 7
+    },
+    {
+      "Key": "C|Deltia|",
+      "Name": "Deltia",
+      "Cps": 1070000,
+      "Count": 6
+    },
+    {
+      "Key": "C|Akaria|",
+      "Name": "Akaria",
+      "Cps": 1040000,
+      "Count": 4
+    },
+    {
+      "Key": "C|Hestira|",
+      "Name": "Hestira",
+      "Cps": 980000,
+      "Count": 5
+    },
+    {
+      "Key": "C|Mari Kita II|",
+      "Name": "Mari Kita II",
+      "Cps": 940000,
+      "Count": 5
+    },
+    {
+      "Key": "C|Ayaki Kamisora|",
+      "Name": "Ayaki Kamisora",
+      "Cps": 900000,
+      "Count": 14
+    },
+    {
+      "Key": "C|Riza II|",
+      "Name": "Riza II",
+      "Cps": 880000,
+      "Count": 8
+    },
+    {
+      "Key": "C|Selene|",
+      "Name": "Selene",
+      "Cps": 840000,
+      "Count": 13
+    }
+  ],
+  "Current": [
+    {
+      "Key": "C|Sasha|Demonic|L333",
+      "Name": "Sasha",
+      "Cps": 1559245593,
+      "Count": 1
+    },
+    {
+      "Key": "C|Sasha|Demonic|L278",
+      "Name": "Sasha",
+      "Cps": 1336985307,
+      "Count": 1
+    },
+    {
+      "Key": "C|Tatsa||L390",
+      "Name": "Tatsa",
+      "Cps": 1295295171,
+      "Count": 1
+    },
+    {
+      "Key": "C|Akaria|Demonic|L296",
+      "Name": "Akaria",
+      "Cps": 1218531002,
+      "Count": 1
+    },
+    {
+      "Key": "C|Akaria|Demonic|L267",
+      "Name": "Akaria",
+      "Cps": 1123624369,
+      "Count": 1
+    },
+    {
+      "Key": "C|Riza II|Demonic|L305",
+      "Name": "Riza II",
+      "Cps": 1057340441,
+      "Count": 1
+    },
+    {
+      "Key": "C|Kaneko|Demonic|L203",
+      "Name": "Kaneko",
+      "Cps": 23504379,
+      "Count": 1
+    },
+    {
+      "Key": "C|Suigintra||L142",
+      "Name": "Suigintra",
+      "Cps": 323307033,
+      "Count": 1
+    },
+    {
+      "Key": "C|Menihi||L96",
+      "Name": "Menihi",
+      "Cps": 227365173,
+      "Count": 1
+    },
+    {
+      "Key": "C|Sabera II|Nightmare|L266",
+      "Name": "Sabera II",
+      "Cps": 181001747,
+      "Count": 1
+    },
+    {
+      "Key": "C|Sasha|Dracula|L92",
+      "Name": "Sasha",
+      "Cps": 223603808,
+      "Count": 1
+    },
+    {
+      "Key": "C|Tatsa||L82",
+      "Name": "Tatsa",
+      "Cps": 140082620,
+      "Count": 1
+    },
+    {
+      "Key": "C|Yotso Naka|Water|L328",
+      "Name": "Yotso Naka",
+      "Cps": 127617074,
+      "Count": 1
+    },
+    {
+      "Key": "C|Askira II|Solar|L324",
+      "Name": "Askira II",
+      "Cps": 115847181,
+      "Count": 1
+    },
+    {
+      "Key": "C|Lucia|Water|L312",
+      "Name": "Lucia",
+      "Cps": 112024643,
+      "Count": 1
+    },
+    {
+      "Key": "C|Bambienne|Mars|L236",
+      "Name": "Bambienne",
+      "Cps": 110426910,
+      "Count": 1
+    },
+    {
+      "Key": "C|Ayaki Kamisora|Demonic|L86",
+      "Name": "Ayaki Kamisora",
+      "Cps": 170335391,
+      "Count": 1
+    },
+    {
+      "Key": "C|Rubie Hoshi|Dracula|L74",
+      "Name": "Rubie Hoshi",
+      "Cps": 114963255,
+      "Count": 1
+    },
+    {
+      "Key": "C|Subara|Dracula|L71",
+      "Name": "Subara",
+      "Cps": 111740370,
+      "Count": 1
+    },
+    {
+      "Key": "C|Ichi Naka|Blood|L426",
+      "Name": "Ichi Naka",
+      "Cps": 83923322,
+      "Count": 1
+    },
+    {
+      "Key": "C|Suigintra||L68",
+      "Name": "Suigintra",
+      "Cps": 76152981,
+      "Count": 1
+    },
+    {
+      "Key": "C|Mari Kita II||L203",
+      "Name": "Mari Kita II",
+      "Cps": 66283013,
+      "Count": 1
+    },
+    {
+      "Key": "C|Reia II|Sinister|L152",
+      "Name": "Reia II",
+      "Cps": 53404908,
+      "Count": 1
+    },
+    {
+      "Key": "C|Kurumia Tokisora||L64",
+      "Name": "Kurumia Tokisora",
+      "Cps": 61890876,
+      "Count": 1
+    },
+    {
+      "Key": "C|Albina|Water|L149",
+      "Name": "Albina",
+      "Cps": 38574805,
+      "Count": 1
+    },
+    {
+      "Key": "C|Ibukia|Lunar|L147",
+      "Name": "Ibukia",
+      "Cps": 37957405,
+      "Count": 1
+    },
+    {
+      "Key": "C|2V|Zombie|L153",
+      "Name": "2V",
+      "Cps": 26918767,
+      "Count": 1
+    },
+    {
+      "Key": "C|2V|Zombie|L145",
+      "Name": "2V",
+      "Cps": 25236333,
+      "Count": 1
+    },
+    {
+      "Key": "C|Albina|Ghost|L130",
+      "Name": "Albina",
+      "Cps": 20683074,
+      "Count": 1
+    },
+    {
+      "Key": "C|Miku Naka|Slime|L137",
+      "Name": "Miku Naka",
+      "Cps": 20618304,
+      "Count": 1
+    },
+    {
+      "Key": "C|Nina Naka|Zombie|L119",
+      "Name": "Nina Naka",
+      "Cps": 17831500,
+      "Count": 1
+    },
+    {
+      "Key": "C|Itsi Naka|Nightmare|L82",
+      "Name": "Itsi Naka",
+      "Cps": 28724370,
+      "Count": 1
+    },
+    {
+      "Key": "C|C.C||L71",
+      "Name": "C.C",
+      "Cps": 90113202,
+      "Count": 1
+    },
+    {
+      "Key": "C|Rena Yamashira||L67",
+      "Name": "Rena Yamashira",
+      "Cps": 83372016,
+      "Count": 1
+    }
+  ],
+  "Definitions": {
+    "Sasha": {},
+    "Tatsa": {},
+    "Akaria": {},
+    "Riza II": {
+      "CombinationPartner": [
+        "Kaneko",
+        "Kaneko II"
+      ]
+    },
+    "Suigintra": {},
+    "Menihi": {},
+    "Sabera II": {},
+    "Ayaki Kamisora": {},
+    "Yotso Naka": {
+      "CombinationPartner": [
+        "Ichi Naka",
+        "Itsi Naka",
+        "Miku Naka",
+        "Nina Naka"
+      ]
+    },
+    "Askira II": {
+      "CombinationPartner": "Reia II"
+    },
+    "Rubie Hoshi": {},
+    "Lucia": {
+      "CombinationPartner": [
+        "Davida Martinez",
+        "Rebekka"
+      ]
+    },
+    "Subara": {
+      "CombinationPartner": [
+        "Emeliara",
+        "Remi",
+        "Witch of Darkness"
+      ]
+    },
+    "Bambienne": {},
+    "C.C": {
+      "CombinationPartner": "Lella"
+    },
+    "Ichi Naka": {
+      "CombinationPartner": [
+        "Itsi Naka",
+        "Miku Naka",
+        "Nina Naka",
+        "Yotso Naka"
+      ]
+    },
+    "Rena Yamashira": {},
+    "Mari Kita II": {},
+    "Kurumia Tokisora": {},
+    "Reia II": {
+      "CombinationPartner": "Askira II"
+    },
+    "Albina": {},
+    "Ibukia": {
+      "CombinationPartner": "Irohia"
+    },
+    "Itsi Naka": {
+      "CombinationPartner": [
+        "Ichi Naka",
+        "Miku Naka",
+        "Nina Naka",
+        "Yotso Naka"
+      ]
+    },
+    "2V": {},
+    "Kaneko": {
+      "CombinationPartner": [
+        "Riza",
+        "Touki",
+        "Riza II"
+      ]
+    },
+    "Miku Naka": {
+      "CombinationPartner": [
+        "Ichi Naka",
+        "Itsi Naka",
+        "Nina Naka",
+        "Yotso Naka"
+      ]
+    },
+    "Nina Naka": {
+      "CombinationPartner": [
+        "Ichi Naka",
+        "Itsi Naka",
+        "Miku Naka",
+        "Yotso Naka"
+      ]
+    },
+    "Remi": {
+      "CombinationPartner": [
+        "Rami",
+        "Subara"
+      ]
+    },
+    "Ria Gramera II": {},
+    "Makina II": {},
+    "Selene": {
+      "CombinationPartner": "Angelia"
+    },
+    "Deltia": {},
+    "Hestira": {}
+  },
+  "PreviousIncome": 12600564331,
+  "Before": 12559327723
+}

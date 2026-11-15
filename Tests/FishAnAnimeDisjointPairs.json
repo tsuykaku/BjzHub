@@ -1,0 +1,1139 @@
+{
+  "Candidates": [
+    {
+      "Key": "C|Akaria|",
+      "Cps": 1040000,
+      "Count": 18,
+      "Rarity": "Divine",
+      "Name": "Akaria"
+    },
+    {
+      "Key": "C|Akaria|Blood",
+      "Cps": 2080000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Akaria"
+    },
+    {
+      "Key": "C|Akaria|Demonic|L269",
+      "Count": 1,
+      "Cps": 1129925475,
+      "Rarity": "Divine",
+      "TypeName": "Demonic",
+      "Name": "Akaria"
+    },
+    {
+      "Key": "C|Akaria|Demonic|L296",
+      "Count": 1,
+      "Cps": 1218531002,
+      "Rarity": "Divine",
+      "TypeName": "Demonic",
+      "Name": "Akaria"
+    },
+    {
+      "Key": "C|Akaria|Gold",
+      "Cps": 1300000,
+      "Count": 2,
+      "Rarity": "Divine",
+      "Name": "Akaria"
+    },
+    {
+      "Key": "C|Ayaki Kamisora|",
+      "Cps": 900000,
+      "Count": 32,
+      "Rarity": "Divine",
+      "Name": "Ayaki Kamisora"
+    },
+    {
+      "Key": "C|Ayaki Kamisora|Demonic|L268",
+      "Count": 1,
+      "Cps": 975089871,
+      "Rarity": "Divine",
+      "TypeName": "Demonic",
+      "Name": "Ayaki Kamisora"
+    },
+    {
+      "Key": "C|C.C|",
+      "Cps": 8000000,
+      "Count": 2,
+      "Rarity": "Supreme",
+      "Name": "C.C"
+    },
+    {
+      "Key": "C|C.C||L219",
+      "Count": 1,
+      "Cps": 641833248,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "C.C"
+    },
+    {
+      "Key": "C|Deltia|",
+      "Cps": 1070000,
+      "Count": 16,
+      "Rarity": "Divine",
+      "Name": "Deltia"
+    },
+    {
+      "Key": "C|Ferna|",
+      "Cps": 98,
+      "Count": 3,
+      "Rarity": "Legendary",
+      "Name": "Ferna"
+    },
+    {
+      "Key": "C|Hestira|",
+      "Cps": 980000,
+      "Count": 20,
+      "Rarity": "Divine",
+      "Name": "Hestira"
+    },
+    {
+      "Key": "C|Hestira|Sinister",
+      "Cps": 4900000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Hestira"
+    },
+    {
+      "Key": "C|Hestira|Zombie",
+      "Cps": 1960000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Hestira"
+    },
+    {
+      "Key": "C|Ichi Naka|Blood|L427",
+      "Count": 1,
+      "Cps": 84158307,
+      "Rarity": "Ascended",
+      "TypeName": "Blood",
+      "Name": "Ichi Naka"
+    },
+    {
+      "Key": "C|Itsi Naka|Nightmare|L345",
+      "Count": 1,
+      "Cps": 234201871,
+      "Rarity": "Ascended",
+      "TypeName": "Nightmare",
+      "Name": "Itsi Naka"
+    },
+    {
+      "Key": "C|Kaneko|Demonic|L404",
+      "Count": 1,
+      "Cps": 52823209,
+      "Rarity": "Rainbow",
+      "TypeName": "Demonic",
+      "Name": "Kaneko"
+    },
+    {
+      "Key": "C|Kurumia Tokisora|",
+      "Cps": 7000000,
+      "Count": 4,
+      "Rarity": "Supreme",
+      "Name": "Kurumia Tokisora"
+    },
+    {
+      "Key": "C|Kurumia Tokisora|Solar",
+      "Count": 1,
+      "Cps": 28000000,
+      "Rarity": "Supreme",
+      "TypeName": "Solar",
+      "Name": "Kurumia Tokisora"
+    },
+    {
+      "Key": "C|Kurumia Tokisora||L219",
+      "Cps": 561604092,
+      "Count": 1,
+      "Rarity": "Supreme",
+      "Name": "Kurumia Tokisora"
+    },
+    {
+      "Key": "C|Makina II|",
+      "Cps": 1080000,
+      "Count": 18,
+      "Rarity": "Divine",
+      "Name": "Makina II"
+    },
+    {
+      "Key": "C|Makina II|Electric",
+      "Cps": 2160000,
+      "Count": 2,
+      "Rarity": "Divine",
+      "Name": "Makina II"
+    },
+    {
+      "Key": "C|Makina II|Party",
+      "Cps": 1620000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Makina II"
+    },
+    {
+      "Key": "C|Mari Kita II|",
+      "Cps": 940000,
+      "Count": 19,
+      "Rarity": "Divine",
+      "Name": "Mari Kita II"
+    },
+    {
+      "Key": "C|Mari Kita II|Gold",
+      "Cps": 1175000,
+      "Count": 2,
+      "Rarity": "Divine",
+      "Name": "Mari Kita II"
+    },
+    {
+      "Key": "C|Mari Kita II|Nightmare",
+      "Cps": 6580000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Mari Kita II"
+    },
+    {
+      "Key": "C|Mari Kita II|Party",
+      "Cps": 1410000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Mari Kita II"
+    },
+    {
+      "Key": "C|Mari Kita II|Solar",
+      "Cps": 3760000,
+      "Count": 3,
+      "Rarity": "Divine",
+      "Name": "Mari Kita II"
+    },
+    {
+      "Key": "C|Mari Kita II|Water|L268",
+      "Count": 1,
+      "Cps": 407370879,
+      "Rarity": "Divine",
+      "TypeName": "Water",
+      "Name": "Mari Kita II"
+    },
+    {
+      "Key": "C|Mari Kita II||L203",
+      "Cps": 66283017,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Mari Kita II"
+    },
+    {
+      "Key": "C|Menihi|",
+      "Cps": 8500000,
+      "Count": 1,
+      "Rarity": "Supreme",
+      "Name": "Menihi"
+    },
+    {
+      "Key": "C|Menihi||L220",
+      "Count": 1,
+      "Cps": 687471603,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "Menihi"
+    },
+    {
+      "Key": "C|Pomna|",
+      "Cps": 32500,
+      "Count": 9,
+      "Rarity": "Rainbow",
+      "Name": "Pomna"
+    },
+    {
+      "Key": "C|Pomna|Gold",
+      "Cps": 40625,
+      "Count": 1,
+      "Rarity": "Rainbow",
+      "Name": "Pomna"
+    },
+    {
+      "Key": "C|Remi|",
+      "Cps": 1280000,
+      "Count": 12,
+      "Rarity": "Divine",
+      "Name": "Remi"
+    },
+    {
+      "Key": "C|Remi|Diamond",
+      "Cps": 1920000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Remi"
+    },
+    {
+      "Key": "C|Remi|Party|L268",
+      "Count": 1,
+      "Cps": 208019172,
+      "Rarity": "Divine",
+      "TypeName": "Party",
+      "Name": "Remi"
+    },
+    {
+      "Key": "C|Remi|Void|L286",
+      "Count": 1,
+      "Cps": 875026510,
+      "Rarity": "Divine",
+      "TypeName": "Void",
+      "Name": "Remi"
+    },
+    {
+      "Key": "C|Remi||L271",
+      "Count": 2,
+      "Cps": 139847620,
+      "Rarity": "Divine",
+      "TypeName": "",
+      "Name": "Remi"
+    },
+    {
+      "Key": "C|Rena Yamashira||L220",
+      "Count": 2,
+      "Cps": 687471603,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "Rena Yamashira"
+    },
+    {
+      "Key": "C|Ria Gramera II|",
+      "Cps": 1120000,
+      "Count": 24,
+      "Rarity": "Divine",
+      "Name": "Ria Gramera II"
+    },
+    {
+      "Key": "C|Ria Gramera II|Honey",
+      "Cps": 1400000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Ria Gramera II"
+    },
+    {
+      "Key": "C|Ria Gramera II|Party",
+      "Cps": 1680000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Ria Gramera II"
+    },
+    {
+      "Key": "C|Ria Gramera II|Sinister|L268",
+      "Count": 1,
+      "Cps": 606722586,
+      "Rarity": "Divine",
+      "TypeName": "Sinister",
+      "Name": "Ria Gramera II"
+    },
+    {
+      "Key": "C|Riza II|",
+      "Cps": 880000,
+      "Count": 28,
+      "Rarity": "Divine",
+      "Name": "Riza II"
+    },
+    {
+      "Key": "C|Riza II|Demonic|L305",
+      "Count": 1,
+      "Cps": 1057340441,
+      "Rarity": "Divine",
+      "TypeName": "Demonic",
+      "Name": "Riza II"
+    },
+    {
+      "Key": "C|Riza II|Zombie|L269",
+      "Count": 1,
+      "Cps": 191218157,
+      "Rarity": "Divine",
+      "TypeName": "Zombie",
+      "Name": "Riza II"
+    },
+    {
+      "Key": "C|Rubie Hoshi|",
+      "Cps": 1150000,
+      "Count": 19,
+      "Rarity": "Divine",
+      "Name": "Rubie Hoshi"
+    },
+    {
+      "Key": "C|Rubie Hoshi|Dracula|L268",
+      "Count": 1,
+      "Cps": 996758535,
+      "Rarity": "Divine",
+      "TypeName": "Dracula",
+      "Name": "Rubie Hoshi"
+    },
+    {
+      "Key": "C|Rubie Hoshi|Electric",
+      "Cps": 2300000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Rubie Hoshi"
+    },
+    {
+      "Key": "C|Sabera III||L109",
+      "Count": 1,
+      "Cps": 792767511,
+      "Rarity": "Celestial",
+      "TypeName": "",
+      "Name": "Sabera III"
+    },
+    {
+      "Key": "C|Sasha|",
+      "Cps": 1200000,
+      "Count": 26,
+      "Rarity": "Divine",
+      "Name": "Sasha"
+    },
+    {
+      "Key": "C|Sasha|Demonic",
+      "Cps": 12000000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Sasha"
+    },
+    {
+      "Key": "C|Sasha|Demonic|L278",
+      "Count": 1,
+      "Cps": 1336985307,
+      "Rarity": "Divine",
+      "TypeName": "Demonic",
+      "Name": "Sasha"
+    },
+    {
+      "Key": "C|Sasha|Demonic|L333",
+      "Count": 1,
+      "Cps": 1559245593,
+      "Rarity": "Divine",
+      "TypeName": "Demonic",
+      "Name": "Sasha"
+    },
+    {
+      "Key": "C|Sasha|Dracula|L268",
+      "Count": 1,
+      "Cps": 1040095862,
+      "Rarity": "Divine",
+      "TypeName": "Dracula",
+      "Name": "Sasha"
+    },
+    {
+      "Key": "C|Sasha|Nightmare",
+      "Cps": 8400000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Sasha"
+    },
+    {
+      "Key": "C|Sasha|Party",
+      "Cps": 1800000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Sasha"
+    },
+    {
+      "Key": "C|Selene|",
+      "Cps": 840000,
+      "Count": 34,
+      "Rarity": "Divine",
+      "Name": "Selene"
+    },
+    {
+      "Key": "C|Selene|Lunar",
+      "Cps": 3360000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Selene"
+    },
+    {
+      "Key": "C|Selene|Party",
+      "Cps": 1260000,
+      "Count": 2,
+      "Rarity": "Divine",
+      "Name": "Selene"
+    },
+    {
+      "Key": "C|Selene|Solar",
+      "Cps": 3360000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Selene"
+    },
+    {
+      "Key": "C|Selene|Toxic",
+      "Cps": 3360000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Selene"
+    },
+    {
+      "Key": "C|Subara|",
+      "Cps": 1240000,
+      "Count": 24,
+      "Rarity": "Divine",
+      "Name": "Subara"
+    },
+    {
+      "Key": "C|Subara|Dracula|L268",
+      "Count": 1,
+      "Cps": 1074765724,
+      "Rarity": "Divine",
+      "TypeName": "Dracula",
+      "Name": "Subara"
+    },
+    {
+      "Key": "C|Subara|Lava",
+      "Cps": 2480000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Subara"
+    },
+    {
+      "Key": "C|Subara|Solar",
+      "Cps": 4960000,
+      "Count": 1,
+      "Rarity": "Divine",
+      "Name": "Subara"
+    },
+    {
+      "Key": "C|Subara||L268",
+      "Count": 1,
+      "Cps": 134345716,
+      "Rarity": "Divine",
+      "TypeName": "",
+      "Name": "Subara"
+    },
+    {
+      "Key": "C|Suigintra|",
+      "Cps": 7500000,
+      "Count": 1,
+      "Rarity": "Supreme",
+      "Name": "Suigintra"
+    },
+    {
+      "Key": "C|Suigintra||L219",
+      "Count": 2,
+      "Cps": 601718670,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "Suigintra"
+    },
+    {
+      "Key": "C|Summer Mika II||L222",
+      "Count": 1,
+      "Cps": 1380868585,
+      "Rarity": "Celestial",
+      "TypeName": "",
+      "Name": "Summer Mika II"
+    },
+    {
+      "Key": "C|Summer Mika II||L249",
+      "Count": 1,
+      "Cps": 1716919557,
+      "Rarity": "Celestial",
+      "TypeName": "",
+      "Name": "Summer Mika II"
+    },
+    {
+      "Key": "C|Tatsa|",
+      "Cps": 8500000,
+      "Count": 1,
+      "Rarity": "Supreme",
+      "Name": "Tatsa"
+    },
+    {
+      "Key": "C|Tatsa||L220",
+      "Count": 1,
+      "Cps": 687471603,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "Tatsa"
+    },
+    {
+      "Key": "C|Tatsa||L392",
+      "Count": 1,
+      "Cps": 1302558979,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "Tatsa"
+    },
+    {
+      "Key": "C|Tetora|",
+      "Cps": 375,
+      "Count": 3,
+      "Rarity": "Mythical",
+      "Name": "Tetora"
+    },
+    {
+      "Key": "C|Tetora||L264",
+      "Count": 1,
+      "Cps": 40177,
+      "Rarity": "Mythical",
+      "TypeName": "",
+      "Name": "Tetora"
+    },
+    {
+      "Key": "C|Yotso Naka|Water|L345",
+      "Count": 1,
+      "Cps": 133829641,
+      "Rarity": "Ascended",
+      "TypeName": "Water",
+      "Name": "Yotso Naka"
+    }
+  ],
+  "Slots": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    29,
+    31,
+    32,
+    33,
+    34,
+    36,
+    37,
+    38,
+    39
+  ],
+  "Definitions": {
+    "Makina II": {
+      "CPS": 1080000,
+      "Chance": "1/7,700,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Pomna": {
+      "CPS": 32500,
+      "Chance": "1/150,000,000",
+      "Rarity": "Rainbow",
+      "Time": 60
+    },
+    "Menihi": {
+      "CPS": 8500000,
+      "Chance": "1/75,000,000,000",
+      "Rarity": "Supreme",
+      "Time": 60
+    },
+    "Ria Gramera II": {
+      "CPS": 1120000,
+      "Chance": "1/7,765,225,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Kurumia Tokisora": {
+      "CPS": 7000000,
+      "Chance": "1/19,985,878,125",
+      "Rarity": "Supreme",
+      "Time": 60
+    },
+    "Subara": {
+      "CPS": 1240000,
+      "Chance": "1/9,000,000,000",
+      "CombinationPartner": [
+        "Emeliara",
+        "Remi",
+        "Witch of Darkness"
+      ],
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Ichi Naka": {
+      "CPS": 248993,
+      "Chance": "1/700,000,000",
+      "CombinationPartner": [
+        "Itsi Naka",
+        "Miku Naka",
+        "Nina Naka",
+        "Yotso Naka"
+      ],
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Yotso Naka": {
+      "CPS": 248993,
+      "Chance": "1/700,000,000",
+      "CombinationPartner": [
+        "Ichi Naka",
+        "Itsi Naka",
+        "Miku Naka",
+        "Nina Naka"
+      ],
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Rubie Hoshi": {
+      "CPS": 1150000,
+      "Chance": "1/8,000,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Akaria": {
+      "CPS": 1040000,
+      "Chance": "1/7,000,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Itsi Naka": {
+      "CPS": 248993,
+      "Chance": "1/700,000,000",
+      "CombinationPartner": [
+        "Ichi Naka",
+        "Miku Naka",
+        "Nina Naka",
+        "Yotso Naka"
+      ],
+      "Rarity": "Ascended",
+      "Time": 60
+    },
+    "Suigintra": {
+      "CPS": 7500000,
+      "Chance": "1/25,610,625,000",
+      "Rarity": "Supreme",
+      "Time": 60
+    },
+    "Tatsa": {
+      "CPS": 8500000,
+      "Chance": "1/45,000,000,000",
+      "Rarity": "Supreme",
+      "Time": 60
+    },
+    "Rena Yamashira": {
+      "CPS": 8500000,
+      "Chance": "1/56,250,000,000",
+      "Rarity": "Supreme",
+      "Time": 60
+    },
+    "Ferna": {
+      "CPS": 98,
+      "Chance": "1/425,000",
+      "CombinationPartner": "Froza",
+      "Rarity": "Legendary",
+      "Time": 60
+    },
+    "Kaneko": {
+      "CPS": 33333,
+      "Chance": "1/170,000,000",
+      "CombinationPartner": [
+        "Riza",
+        "Touki",
+        "Riza II"
+      ],
+      "Rarity": "Rainbow",
+      "Time": 60
+    },
+    "Tetora": {
+      "CPS": 375,
+      "Chance": "1/3,600,000",
+      "CombinationPartner": "Akito Nemu",
+      "Rarity": "Mythical",
+      "Time": 60
+    },
+    "Sabera III": {
+      "CPS": 24000000,
+      "Chance": "1/337,500,000,000",
+      "Rarity": "Celestial",
+      "Time": 60
+    },
+    "C.C": {
+      "CPS": 8000000,
+      "Chance": "1/33,750,000,000",
+      "CombinationPartner": "Lella",
+      "Rarity": "Supreme",
+      "Time": 60
+    },
+    "Remi": {
+      "CPS": 1280000,
+      "Chance": "1/10,000,000,000",
+      "CombinationPartner": [
+        "Rami",
+        "Subara"
+      ],
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Hestira": {
+      "CPS": 980000,
+      "Chance": "1/6,200,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Deltia": {
+      "CPS": 1070000,
+      "Chance": "1/7,500,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Sasha": {
+      "CPS": 1200000,
+      "Chance": "1/8,404,404,404",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Summer Mika II": {
+      "CPS": 16800000,
+      "Chance": "1/175,837,500,000",
+      "CombinationPartner": [
+        "Tetora",
+        "Akito Nemu"
+      ],
+      "Rarity": "Celestial",
+      "Time": 60
+    },
+    "Mari Kita II": {
+      "CPS": 940000,
+      "Chance": "1/5,600,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Selene": {
+      "CPS": 840000,
+      "Chance": "1/3,500,000,000",
+      "CombinationPartner": "Angelia",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Ayaki Kamisora": {
+      "CPS": 900000,
+      "Chance": "1/5,000,000,000",
+      "Rarity": "Divine",
+      "Time": 60
+    },
+    "Riza II": {
+      "CPS": 880000,
+      "Chance": "1/4,250,000,000",
+      "CombinationPartner": [
+        "Kaneko",
+        "Kaneko II"
+      ],
+      "Rarity": "Divine",
+      "Time": 60
+    }
+  },
+  "Current": [
+    {
+      "Key": "C|Remi|Void|L286",
+      "Count": 1,
+      "Cps": 875026510,
+      "Rarity": "Divine",
+      "TypeName": "Void",
+      "Name": "Remi",
+      "PairMultiplier": 3
+    },
+    {
+      "Key": "C|Subara|Dracula|L268",
+      "Count": 1,
+      "Cps": 1074765724,
+      "Rarity": "Divine",
+      "TypeName": "Dracula",
+      "Name": "Subara",
+      "PairMultiplier": 3
+    },
+    {
+      "Key": "C|Remi|Party|L268",
+      "Count": 1,
+      "Cps": 208019172,
+      "Rarity": "Divine",
+      "TypeName": "Party",
+      "Name": "Remi",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Sasha|Demonic|L333",
+      "Count": 1,
+      "Cps": 1559245593,
+      "Rarity": "Divine",
+      "TypeName": "Demonic",
+      "Name": "Sasha",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Sasha|Demonic|L278",
+      "Count": 1,
+      "Cps": 1336985307,
+      "Rarity": "Divine",
+      "TypeName": "Demonic",
+      "Name": "Sasha",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Remi||L271",
+      "Count": 1,
+      "Cps": 139847620,
+      "Rarity": "Divine",
+      "TypeName": "",
+      "Name": "Remi",
+      "PairMultiplier": 3
+    },
+    {
+      "Key": "C|Subara||L268",
+      "Count": 1,
+      "Cps": 134345716,
+      "Rarity": "Divine",
+      "TypeName": "",
+      "Name": "Subara",
+      "PairMultiplier": 3
+    },
+    {
+      "Key": "C|Remi||L271",
+      "Count": 1,
+      "Cps": 139847620,
+      "Rarity": "Divine",
+      "TypeName": "",
+      "Name": "Remi",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Tatsa||L392",
+      "Count": 1,
+      "Cps": 1302558979,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "Tatsa",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Akaria|Demonic|L296",
+      "Count": 1,
+      "Cps": 1218531002,
+      "Rarity": "Divine",
+      "TypeName": "Demonic",
+      "Name": "Akaria",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Summer Mika II||L222",
+      "Count": 1,
+      "Cps": 1380868585,
+      "Rarity": "Celestial",
+      "TypeName": "",
+      "Name": "Summer Mika II",
+      "PairMultiplier": 3
+    },
+    {
+      "Key": "C|Tetora||L264",
+      "Count": 1,
+      "Cps": 40177,
+      "Rarity": "Mythical",
+      "TypeName": "",
+      "Name": "Tetora",
+      "PairMultiplier": 3
+    },
+    {
+      "Key": "C|Summer Mika II||L249",
+      "Count": 1,
+      "Cps": 1716919557,
+      "Rarity": "Celestial",
+      "TypeName": "",
+      "Name": "Summer Mika II",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Akaria|Demonic|L269",
+      "Count": 1,
+      "Cps": 1129925475,
+      "Rarity": "Divine",
+      "TypeName": "Demonic",
+      "Name": "Akaria",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Riza II|Demonic|L305",
+      "Count": 1,
+      "Cps": 1057340441,
+      "Rarity": "Divine",
+      "TypeName": "Demonic",
+      "Name": "Riza II",
+      "PairMultiplier": 3
+    },
+    {
+      "Key": "C|Kaneko|Demonic|L404",
+      "Count": 1,
+      "Cps": 52823209,
+      "Rarity": "Rainbow",
+      "TypeName": "Demonic",
+      "Name": "Kaneko",
+      "PairMultiplier": 3
+    },
+    {
+      "Key": "C|Riza II|Zombie|L269",
+      "Count": 1,
+      "Cps": 191218157,
+      "Rarity": "Divine",
+      "TypeName": "Zombie",
+      "Name": "Riza II",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Sasha|Dracula|L268",
+      "Count": 1,
+      "Cps": 1040095862,
+      "Rarity": "Divine",
+      "TypeName": "Dracula",
+      "Name": "Sasha",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Rubie Hoshi|Dracula|L268",
+      "Count": 1,
+      "Cps": 996758535,
+      "Rarity": "Divine",
+      "TypeName": "Dracula",
+      "Name": "Rubie Hoshi",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Ayaki Kamisora|Demonic|L268",
+      "Count": 1,
+      "Cps": 975089871,
+      "Rarity": "Divine",
+      "TypeName": "Demonic",
+      "Name": "Ayaki Kamisora",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Sabera III||L109",
+      "Count": 1,
+      "Cps": 792767511,
+      "Rarity": "Celestial",
+      "TypeName": "",
+      "Name": "Sabera III",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Menihi||L220",
+      "Count": 1,
+      "Cps": 687471603,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "Menihi",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Rena Yamashira||L220",
+      "Count": 1,
+      "Cps": 687471603,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "Rena Yamashira",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Rena Yamashira||L220",
+      "Count": 1,
+      "Cps": 687471603,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "Rena Yamashira",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Tatsa||L220",
+      "Count": 1,
+      "Cps": 687471603,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "Tatsa",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|C.C||L219",
+      "Count": 1,
+      "Cps": 641833248,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "C.C",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Ria Gramera II|Sinister|L268",
+      "Count": 1,
+      "Cps": 606722586,
+      "Rarity": "Divine",
+      "TypeName": "Sinister",
+      "Name": "Ria Gramera II",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Suigintra||L219",
+      "Count": 1,
+      "Cps": 601718670,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "Suigintra",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Suigintra||L219",
+      "Count": 1,
+      "Cps": 601718670,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "Suigintra",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Kurumia Tokisora||L219",
+      "Count": 1,
+      "Cps": 561604092,
+      "Rarity": "Supreme",
+      "TypeName": "",
+      "Name": "Kurumia Tokisora",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Mari Kita II|Water|L268",
+      "Count": 1,
+      "Cps": 407370879,
+      "Rarity": "Divine",
+      "TypeName": "Water",
+      "Name": "Mari Kita II",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Itsi Naka|Nightmare|L345",
+      "Count": 1,
+      "Cps": 234201871,
+      "Rarity": "Ascended",
+      "TypeName": "Nightmare",
+      "Name": "Itsi Naka",
+      "PairMultiplier": 1
+    },
+    {
+      "Key": "C|Yotso Naka|Water|L345",
+      "Count": 1,
+      "Cps": 133829641,
+      "Rarity": "Ascended",
+      "TypeName": "Water",
+      "Name": "Yotso Naka",
+      "PairMultiplier": 3
+    },
+    {
+      "Key": "C|Ichi Naka|Blood|L427",
+      "Count": 1,
+      "Cps": 84158307,
+      "Rarity": "Ascended",
+      "TypeName": "Blood",
+      "Name": "Ichi Naka",
+      "PairMultiplier": 3
+    }
+  ]
+}
